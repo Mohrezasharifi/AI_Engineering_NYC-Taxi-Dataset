@@ -6,6 +6,7 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-lightgrey)
 ![Big Data](https://img.shields.io/badge/Big%20Data-Analytics-green)
 
+<img width="1433" height="755" alt="Screenshot 2026-04-09 151947" src="https://github.com/user-attachments/assets/ba657d57-eceb-4703-adfd-b3571131c1ab" />
 ---
 
 ## Overview
@@ -37,8 +38,6 @@ This project is a **coursework assignment** for the AI Engineering module, analy
 * Implemented **data pipelines** for efficient analysis
 
 **Visualization / Dashboard Placeholders**
-
-<img width="1433" height="755" alt="Screenshot 2026-04-09 151947" src="https://github.com/user-attachments/assets/ba657d57-eceb-4703-adfd-b3571131c1ab" />
 
 <img width="1446" height="756" alt="Screenshot 2026-04-09 152004" src="https://github.com/user-attachments/assets/0d68bc1a-c6b9-4733-9027-f17e7b157f6d" />
 
